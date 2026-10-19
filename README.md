@@ -12,10 +12,13 @@ Histograma para comparar a distribuição de preços entre dois modelos, com op�
 Gráfico de dispersão para explorar a relação entre preço e quilometragem.
 
 ## bibliotecas utilizadas 
-Pandas
-Streamlit
-Plotly Express
+Pandas, Streamlit e Plotly Express.
 
 ## como executar
 No terminal, execute:
 python -m streamlit run app.py
+
+## Links do projeto:
+- Repositório GitHub: https://github.com/mariliamac/tripleten_sprint5_projeto
+- Aplicativo no Render: https://tripleten-sprint5-projeto.onrender.com
+
